@@ -1,16 +1,38 @@
-## Hi there 👋
+# AI 工具教程与资讯文章合集
+  
+这里是 **伊捏捏的脑洞集市** 的 AI 内容归档仓库。
 
-<!--
-**dadamingmax/dadamingmax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+本合集主要用于整理我在公众号、知乎等平台发布的 AI 工具教程、功能更新、实操案例和行业资讯，方便后续查找、复用、更新和二次创作。
 
-Here are some ideas to get you started:
+## 关于我
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+我长期关注 AI 工具、AI 生产力、内容创作和自动化工作流，主要分享：
+
+- AI 工具使用教程
+- Claude / ChatGPT / Grok / Codex 等产品资讯
+- AI 办公、写作、开发、自动化实操
+- 公众号文章选题与内容拆解
+- AI 工具订阅、升级、使用经验整理
+
+公众号：**伊捏捏的脑洞集市**  
+知乎：**健康人猿**
+
+## 内容方向
+
+这个仓库会持续收集以下类型的文章和资料：
+
+### 1. AI 工具教程
+
+记录各类 AI 工具的安装、配置、使用方法和实战流程，例如 Claude、ChatGPT、Grok、Codex、Office AI 插件等。
+
+### 2. AI 产品资讯
+
+整理 AI 产品的新功能、新模型、新版本变化，以及对普通用户和内容创作者的实际影响。
+
+### 3. 实操案例
+
+沉淀一些真实使用场景，例如论文处理、公众号写作、PPT 大纲生成、数据分析、自动化办公、AI 辅助开发等。
+
+### 4. 公众号文章归档
+
+用于统一管理已发布或待发布的公众号文章，方便后续复盘、修改和二次分发。
